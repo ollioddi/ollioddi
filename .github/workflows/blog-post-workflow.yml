@@ -17,4 +17,5 @@ jobs:
           accept_header: 'application/rss+xml, application/xml, text/xml'
           max_post_count: 5
           template: '- **[$title]($url)** - $date $newline  *$description* $newline  Categories: $categories$newline'
-          date_format: 'mmm dd, yyyy'
+          date_format: 'dd mmm, yyyy'
+          tag_post_pre_newline: true
