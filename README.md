@@ -21,6 +21,9 @@
 <h3 align="left">Blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- **[How I became a nerd: Running a Minecraft server in 2011.](https://ollioddi.dev/blog/how-i-became-nerd/)** - 09 Jun, 2026 
+  *A trip down memory lane, reflecting on how my early experiences with technology and gaming sparked a lifelong passion for learning and tinkering.* 
+  Categories: homelab, minecraft
 - **[Server-Sent Events &lpar;SSE&rpar; with TanStack Start &amp; TanStack Query](https://ollioddi.dev/blog/tanstack-sse-guide/)** - 11 Feb, 2026 
   *A practical guide to Server-Sent Events &lpar;SSE&rpar; with TanStack Start and TanStack Query &lpar;React Query&rpar;. Build a real-time chat and collaborative todo list, with full source code.* 
   Categories: fullstack, typescript, tanstack start, tanstack query, server-sent events, react
@@ -33,8 +36,5 @@
 - **[My Homelab Journey: Part 1 - Hardware &amp; Lessons Learned](https://ollioddi.dev/blog/homelab-part-1/)** - 27 Jan, 2026 
   *Five hardware iterations, countless mistakes, and expensive lessons in building a proper homelab. From a single Unraid server to a clustered enterprise setup with proper networking and redundancy.* 
   Categories: homelab, hardware, networking
-- **[Welcome to my personal site &amp; blog](https://ollioddi.dev/blog/welcome-to-my-blog/)** - 27 Jan, 2026 
-  *An introduction to what you can expect from this blog - development insights, homelab adventures, and lessons learned.* 
-  Categories: 
 
 <!-- BLOG-POST-LIST:END -->
