@@ -21,7 +21,7 @@
 <h3 align="left">Blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- **[How I became a nerd: Running a Minecraft server in 2011.](https://ollioddi.dev/blog/how-i-became-nerd/)** - 09 Jun, 2026 
+- **[How I became a nerd: Running a Minecraft server in 2011.](https://ollioddi.dev/blog/how-i-became-a-nerd/)** - 09 Jun, 2026 
   *A trip down memory lane, reflecting on how my early experiences with technology and gaming sparked a lifelong passion for learning and tinkering.* 
   Categories: homelab, minecraft
 - **[Server-Sent Events &lpar;SSE&rpar; with TanStack Start &amp; TanStack Query](https://ollioddi.dev/blog/tanstack-sse-guide/)** - 11 Feb, 2026 
