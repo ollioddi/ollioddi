@@ -21,6 +21,9 @@
 <h3 align="left">Blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- **[Reading Time on Astro 7: Counting Words by Walking the AST](https://ollioddi.dev/blog/astro-7-reading-time/)** - 24 Jun, 2026 
+  *How a reading-time estimate actually works &lpar;hint: it is an AST trick&rpar;, how I built mine, and how upgrading to Astro 7&#39;s new Sätteri engine quietly broke it.* 
+  Categories: astro, typescript, compilers
 - **[How I became a nerd: Running a Minecraft server in 2011.](https://ollioddi.dev/blog/how-i-became-a-nerd/)** - 09 Jun, 2026 
   *A trip down memory lane, reflecting on how my early experiences with technology and gaming sparked a lifelong passion for learning and tinkering.* 
   Categories: homelab, minecraft
@@ -33,8 +36,5 @@
 - **[Fixing Swup Mixed Content Behind a Reverse Proxy](https://ollioddi.dev/blog/astro-mixed-content/)** - 31 Jan, 2026 
   *How two Nginx config lines fixed Swup preloading issues when running Astro static behind Traefik and Cloudflare.* 
   Categories: astro, nginx, networking
-- **[My Homelab Journey: Part 1 - Hardware &amp; Lessons Learned](https://ollioddi.dev/blog/homelab-part-1/)** - 27 Jan, 2026 
-  *Five hardware iterations, countless mistakes, and expensive lessons in building a proper homelab. From a single Unraid server to a clustered enterprise setup with proper networking and redundancy.* 
-  Categories: homelab, hardware, networking
 
 <!-- BLOG-POST-LIST:END -->
