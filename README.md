@@ -21,19 +21,19 @@
 <h3 align="left">Blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- **[Reading Time on Astro 7: Counting Words by Walking the AST](https://ollioddi.dev/blog/astro-7-reading-time/)** - 24 Jun, 2026 
+- **[Reading Time on Astro 7: Counting Words by Walking the AST](https://ollioddi.dev/blog/astro-7-reading-time)** - 24 Jun, 2026 
   *How a reading-time estimate actually works &lpar;hint: it is an AST trick&rpar;, how I built mine, and how upgrading to Astro 7&#39;s new Sätteri engine quietly broke it.* 
   Categories: astro, typescript, compilers
-- **[How I became a nerd: Running a Minecraft server in 2011.](https://ollioddi.dev/blog/how-i-became-a-nerd/)** - 09 Jun, 2026 
+- **[How I became a nerd: Running a Minecraft server in 2011.](https://ollioddi.dev/blog/how-i-became-a-nerd)** - 09 Jun, 2026 
   *A trip down memory lane, reflecting on how my early experiences with technology and gaming sparked a lifelong passion for learning and tinkering.* 
   Categories: homelab, minecraft
-- **[Server-Sent Events &lpar;SSE&rpar; with TanStack Start &amp; TanStack Query](https://ollioddi.dev/blog/tanstack-sse-guide/)** - 11 Feb, 2026 
+- **[Server-Sent Events &lpar;SSE&rpar; with TanStack Start &amp; TanStack Query](https://ollioddi.dev/blog/tanstack-sse-guide)** - 11 Feb, 2026 
   *A practical guide to Server-Sent Events &lpar;SSE&rpar; with TanStack Start and TanStack Query &lpar;React Query&rpar;. Build a real-time chat and collaborative todo list, with full source code.* 
   Categories: fullstack, typescript, tanstack start, tanstack query, server-sent events, react
-- **[SSH Login Notifications with NTFY in Your Homelab](https://ollioddi.dev/blog/homelab-ssh-notifications/)** - 02 Feb, 2026 
+- **[SSH Login Notifications with NTFY in Your Homelab](https://ollioddi.dev/blog/homelab-ssh-notifications)** - 02 Feb, 2026 
   *Get instant notifications whenever someone logs into your servers using NTFY and PAM. Includes both Ansible automation and manual setup.* 
   Categories: homelab, security, ansible
-- **[Fixing Swup Mixed Content Behind a Reverse Proxy](https://ollioddi.dev/blog/astro-mixed-content/)** - 31 Jan, 2026 
+- **[Fixing Swup Mixed Content Behind a Reverse Proxy](https://ollioddi.dev/blog/astro-mixed-content)** - 31 Jan, 2026 
   *How two Nginx config lines fixed Swup preloading issues when running Astro static behind Traefik and Cloudflare.* 
   Categories: astro, nginx, networking
 
