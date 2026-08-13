@@ -2,7 +2,7 @@
 
 ### A passionate Typescript developer
 
-- 🔭 I'm currently working on **Completing my Bachelors degree**
+- 🔭 I'm currently working as a **fullstack engineer**
 
 - 🌱 I'm currently learning **Golang** (when time allows)
 
