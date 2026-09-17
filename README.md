@@ -21,6 +21,9 @@
 <h3 align="left">Blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- **[My DevOps Journey: From Drone CI to Kubernetes](https://ollioddi.dev/blog/drone-ci-to-kubernetes)** - 17 Sep, 2026 
+  *How to overcomplicate your homelab with Kubernetes.* 
+  Categories: 
 - **[Reading Time on Astro 7: Counting Words by Walking the AST](https://ollioddi.dev/blog/astro-7-reading-time)** - 24 Jun, 2026 
   *How a reading-time estimate actually works &lpar;hint: it is an AST trick&rpar;, how I built mine, and how upgrading to Astro 7&#39;s new Sätteri engine quietly broke it.* 
   Categories: 
@@ -32,9 +35,6 @@
   Categories: 
 - **[SSH Login Notifications with NTFY in Your Homelab](https://ollioddi.dev/blog/homelab-ssh-notifications)** - 02 Feb, 2026 
   *Get instant notifications whenever someone logs into your servers using NTFY and PAM. Includes both Ansible automation and manual setup.* 
-  Categories: 
-- **[Fixing Swup Mixed Content Behind a Reverse Proxy](https://ollioddi.dev/blog/astro-mixed-content)** - 31 Jan, 2026 
-  *How two Nginx config lines fixed Swup preloading issues when running Astro static behind Traefik and Cloudflare.* 
   Categories: 
 
 <!-- BLOG-POST-LIST:END -->
