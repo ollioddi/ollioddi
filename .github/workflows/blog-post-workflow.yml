@@ -18,4 +18,5 @@ jobs:
           max_post_count: 5
           date_format: 'dd mmm yyyy'
           disable_html_encoding: true
+          tag_post_pre_newline: true
           template: '#### [$title]($url)$newline<sub>📅 $date &nbsp;·&nbsp; 🏷️ $categories</sub>$newline$newline> $description$newline$newline'
