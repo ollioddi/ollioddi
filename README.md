@@ -20,7 +20,8 @@
 
 <h3 align="left">Blog posts:</h3>
 
-<!-- BLOG-POST-LIST:START -->#### [My DevOps Journey: From Drone CI to Kubernetes](https://ollioddi.dev/blog/drone-ci-to-kubernetes)
+<!-- BLOG-POST-LIST:START -->
+#### [My DevOps Journey: From Drone CI to Kubernetes](https://ollioddi.dev/blog/drone-ci-to-kubernetes)
 <sub>📅 17 Sep 2026 &nbsp;·&nbsp; 🏷️ homelab, kubernetes, devops</sub>
 
 > How to overcomplicate your homelab with Kubernetes.
@@ -44,5 +45,6 @@
 <sub>📅 02 Feb 2026 &nbsp;·&nbsp; 🏷️ homelab, security, ansible</sub>
 
 > Get instant notifications whenever someone logs into your servers using NTFY and PAM. Includes both Ansible automation and manual setup.
+
 
 <!-- BLOG-POST-LIST:END -->
