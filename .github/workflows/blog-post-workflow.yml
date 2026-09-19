@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://ollioddi.dev/rss.xml'
           user_agent: 'Mozilla/5.0 (compatible; BlogPostBot/1.0; +https://github.com/ollioddi/ollioddi)'
           accept_header: 'application/rss+xml, application/xml, text/xml'
           max_post_count: 5
-          template: '- **[$title]($url)** - $date $newline  *$description* $newline  Categories: $categories$newline'
-          date_format: 'dd mmm, yyyy'
-          tag_post_pre_newline: true
+          date_format: 'dd mmm yyyy'
+          disable_html_encoding: true
+          template: '#### [$title]($url)$newline<sub>📅 $date &nbsp;·&nbsp; 🏷️ $categories</sub>$newline$newline> $description$newline$newline'
