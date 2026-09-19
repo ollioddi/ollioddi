@@ -20,21 +20,29 @@
 
 <h3 align="left">Blog posts:</h3>
 
-<!-- BLOG-POST-LIST:START -->
-- **[My DevOps Journey: From Drone CI to Kubernetes](https://ollioddi.dev/blog/drone-ci-to-kubernetes)** - 17 Sep, 2026 
-  *How to overcomplicate your homelab with Kubernetes.* 
-  Categories: 
-- **[Reading Time on Astro 7: Counting Words by Walking the AST](https://ollioddi.dev/blog/astro-7-reading-time)** - 24 Jun, 2026 
-  *How a reading-time estimate actually works &lpar;hint: it is an AST trick&rpar;, how I built mine, and how upgrading to Astro 7&#39;s new Sätteri engine quietly broke it.* 
-  Categories: 
-- **[How I became a nerd: Running a Minecraft server in 2011.](https://ollioddi.dev/blog/how-i-became-a-nerd)** - 09 Jun, 2026 
-  *A trip down memory lane, reflecting on how my early experiences with technology and gaming sparked a lifelong passion for learning and tinkering.* 
-  Categories: 
-- **[Server-Sent Events &lpar;SSE&rpar; with TanStack Start &amp; TanStack Query](https://ollioddi.dev/blog/tanstack-sse-guide)** - 11 Feb, 2026 
-  *A practical guide to Server-Sent Events &lpar;SSE&rpar; with TanStack Start and TanStack Query &lpar;React Query&rpar;. Build a real-time chat and collaborative todo list, with full source code.* 
-  Categories: 
-- **[SSH Login Notifications with NTFY in Your Homelab](https://ollioddi.dev/blog/homelab-ssh-notifications)** - 02 Feb, 2026 
-  *Get instant notifications whenever someone logs into your servers using NTFY and PAM. Includes both Ansible automation and manual setup.* 
-  Categories: 
+<!-- BLOG-POST-LIST:START -->#### [My DevOps Journey: From Drone CI to Kubernetes](https://ollioddi.dev/blog/drone-ci-to-kubernetes)
+<sub>📅 17 Sep 2026 &nbsp;·&nbsp; 🏷️ homelab, kubernetes, devops</sub>
+
+> How to overcomplicate your homelab with Kubernetes.
+
+#### [Reading Time on Astro 7: Counting Words by Walking the AST](https://ollioddi.dev/blog/astro-7-reading-time)
+<sub>📅 24 Jun 2026 &nbsp;·&nbsp; 🏷️ astro, typescript, compilers</sub>
+
+> How a reading-time estimate actually works (hint: it is an AST trick), how I built mine, and how upgrading to Astro 7's new Sätteri engine quietly broke it.
+
+#### [How I became a nerd: Running a Minecraft server in 2011.](https://ollioddi.dev/blog/how-i-became-a-nerd)
+<sub>📅 09 Jun 2026 &nbsp;·&nbsp; 🏷️ homelab, minecraft</sub>
+
+> A trip down memory lane, reflecting on how my early experiences with technology and gaming sparked a lifelong passion for learning and tinkering.
+
+#### [Server-Sent Events (SSE) with TanStack Start & TanStack Query](https://ollioddi.dev/blog/tanstack-sse-guide)
+<sub>📅 11 Feb 2026 &nbsp;·&nbsp; 🏷️ fullstack, typescript, tanstack start, tanstack query, server-sent events, react</sub>
+
+> A practical guide to Server-Sent Events (SSE) with TanStack Start and TanStack Query (React Query). Build a real-time chat and collaborative todo list, with full source code.
+
+#### [SSH Login Notifications with NTFY in Your Homelab](https://ollioddi.dev/blog/homelab-ssh-notifications)
+<sub>📅 02 Feb 2026 &nbsp;·&nbsp; 🏷️ homelab, security, ansible</sub>
+
+> Get instant notifications whenever someone logs into your servers using NTFY and PAM. Includes both Ansible automation and manual setup.
 
 <!-- BLOG-POST-LIST:END -->
